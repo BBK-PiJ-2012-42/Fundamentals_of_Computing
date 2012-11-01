@@ -10,8 +10,7 @@ import java.util.Map;
  */
 public class State {
     String stateName;
-    Map<String,State> behaviour = new HashMap<String,State>(200);
-    //Map<char,State> behaviour = new HashMap<Object, State>();
+    Map<String,State> behaviour = new HashMap<String,State>();
 
     public State(String name) {
         this.stateName = name;

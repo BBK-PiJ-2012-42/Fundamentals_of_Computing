@@ -9,12 +9,6 @@ package foc;
 // This is my attempt at a general purpose deterministic finite automation (DFA)
 // state machine as described in the Fundamentals of Computing module.
 
-
-// The overall style of the state machine depends on how we wish to build it.
-// In this case the state machine is defined only with a language of strings that
-// defines valid input to be used while it is running. States and state
-// behaviour are created in turn.
-
 public class dfaStateMachine {
     // The language can be an array of whatever type is needed.
     public final String[] language;
