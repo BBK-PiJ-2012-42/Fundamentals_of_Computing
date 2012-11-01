@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  *
- * @author tom
+ * @author Tom Nealon
  */
 public class State {
     String stateName;

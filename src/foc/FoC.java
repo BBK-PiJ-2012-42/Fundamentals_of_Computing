@@ -1,12 +1,8 @@
-/*
- * To change this template, choose Tools | Templates
- * and open the template in the editor.
- */
 package foc;
 
 /**
  *
- * @author tom
+ * @author Tom Nealon
  */
 public class FoC {
 
